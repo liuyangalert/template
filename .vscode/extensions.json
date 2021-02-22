@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "octref.vetur",
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "esbenp.prettier-vscode",
+    "mrmlnc.vscode-less",
+    "antfu.i18n-ally",
+    "antfu.iconify",
+    "mikestead.dotenv",
+    "bradlc.vscode-tailwindcss",
+    "heybourn.headwind"
+  ]
+}
